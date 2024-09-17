@@ -2,6 +2,8 @@ This project was made for comparing baselines for a research paper contribution 
 The projects are developed with referwnces from following papers - 
 
 1.A. Bircher, M. Kamel, K. Alexis, H. Oleynikova and R. Siegwart, "Receding Horizon "Next-Best-View" Planner for 3D Exploration," 2016 IEEE International Conference on Robotics and Automation (ICRA)
+
+
 2.Trevor Olsen, Anne M. Tumlin, Nicholas M. Stiffler and Jason M. O’Kane "A Visibility Roadmap Sampling Approach for a Multi-Robot Visibility-Based Pursuit-Evasion Problem "
 
 The main goal of the code is to help a robot explore an environment efficiently by finding the best viewpoints that maximize the explored area while avoiding collisions with obstacles and considering shadowed regions.'
